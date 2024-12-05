@@ -8,8 +8,8 @@ This project recognizes images and automatically provides explanations as much a
 
 
 ###### Example
-![](1.jpg)  
-![](2.jpg)  
+![](image/1.png)  
+![](image/2.png)  
  
 ###### Modules and Packages Used
 ###### 1)Transformers
